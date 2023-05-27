@@ -1,0 +1,21 @@
+{
+  "name": "cloudamqp_notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.2",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
